@@ -3,10 +3,7 @@
 
 
 ## Team ttca Reborn 
-
-<img align="center" alt="jfif" src="https://github.com/ttcareborn22/ttcareborn22/blob/main/ttca.jfif" width="350" height="320" />
-
-**Paman Doblank
+*Paman Doblank
 
 <img align="center" alt="jfif" src="https://github.com/ttcareborn22/ttcareborn22/blob/main/paman%20doblank.png" width="350" height="320" />
 
