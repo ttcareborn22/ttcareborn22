@@ -6,7 +6,7 @@
 *Paman Doblank<br/>
 *Pache_Boss22
 
-<img align="center" alt="jfif" src="https://github.com/ttcareborn22/ttcareborn22/blob/main/paman%20doblank.png" width="350" height="320" />
+<img align="center" alt="jfif" src="https://github.com/ttcareborn22/ttcareborn22/blob/main/1628941262529.png" width="350" height="320" />
 <img align="center" alt="jfif" src="https://github.com/ttcareborn22/ttcareborn22/blob/main/20210814_170030.png" width="350" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OnlineHacking&label=Views&color=blue&style=plastic" alt="#" /> </p>
